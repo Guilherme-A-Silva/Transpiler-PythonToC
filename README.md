@@ -3,14 +3,14 @@
 ![Transpilador](https://devopedia.org/images/article/19/7689.1528048234.png)
 
 --
-Tem que Suportar PELO MENOS
-Declaraçao/ atribuiçao de Valores e Variaveis ✅
-Expressoes aritmeticas com os 4 operadores ✅
-Um comando condificonal (if/else ou switch/case) ✅
-um comando de repetiçao(for, while ou do while/repeat until); 🚫
-Expressoes lógicas com E e OU;✅
-Declaraçao e chamada de funçao com parametros posicionais 🚫
-obs: Reconhece float se usar virgula
+
+Declaraçao/ atribuiçao de Valores e Variaveis ✅ <br>
+Expressoes aritmeticas com os 4 operadores ✅ <br>
+Um comando condificonal (if/else ou switch/case) ✅ <br>
+um comando de repetiçao(for, while ou do while/repeat until); 🚫 <br>
+Expressoes lógicas com E e OU;✅ <br>
+Declaraçao e chamada de funçao com parametros posicionais 🚫 <br>
+obs: Reconhece float se usar virgula  <br>
 
 # Documento Transpilador
 
