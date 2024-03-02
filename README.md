@@ -12,10 +12,9 @@ Expressoes lógicas com E e OU;✅ <br>
 Declaraçao e chamada de funçao com parametros posicionais 🚫 <br>
 obs: Reconhece float se usar virgula  <br>
 
-# Documento Transpilador
+# Transpilador
 
 Abordagem ascendente com analisador lexico. <br>
-Lin para o repositorio fonte e intruçoes para executalo <br>
 Linguagem de Origem: Python <br>
 Linguagem de destino: C <br>
 Justificativa: O Transpilador de Python para C é uma ferramenta valiosa para ajudar alunos do
